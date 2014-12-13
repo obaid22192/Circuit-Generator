@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES/MICROSOFT VISUAL STUDIO 11.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2014-03-22T23:59:16" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="ProjectPath = ..\circuit_UMLLib\circuit_UMLLib.csproj" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2014-03-22T23:59:17" Importance="Medium" Text="circuit_UML's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'circuit_UML::Connection' -  (Class), 'circuit_UML::Circuit' -  (Class), 'circuit_UML::Gate' -  (Class), 'circuit_UML::Not' -  (Class), 'circuit_UML::Source' -  (Class), 'circuit_UML::Sink' -  (Class), 'circuit_UML::And' -  (Class), 'circuit_UML::Or' -  (Class) " />
+  <Message Timestamp="2014-03-22T23:59:35" Importance="Medium" Text="Project Added: C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\circuit_UMLLib.csproj" />
+  <Message Timestamp="2014-03-22T23:59:35" Importance="Medium" Text="'circuit_UML::Connection' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Connection.cs" />
+  <Message Timestamp="2014-03-22T23:59:36" Importance="Medium" Text="'circuit_UML::Circuit' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Circuit.cs" />
+  <Message Timestamp="2014-03-22T23:59:37" Importance="Medium" Text="'circuit_UML::Gate' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Gate.cs" />
+  <Message Timestamp="2014-03-22T23:59:37" Importance="Medium" Text="'circuit_UML::Not' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Not.cs" />
+  <Message Timestamp="2014-03-22T23:59:38" Importance="Medium" Text="'circuit_UML::Source' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Source.cs" />
+  <Message Timestamp="2014-03-22T23:59:38" Importance="Medium" Text="'circuit_UML::Sink' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Sink.cs" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Medium" Text="'circuit_UML::And' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\And.cs" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Medium" Text="'circuit_UML::Or' -  (Class) : success (file created) - C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit_UMLLib\GeneratedCode\Or.cs" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="ProjectPath = ..\circuit_UMLLib\circuit_UMLLib.csproj" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES\MICROSOFT VISUAL STUDIO 11.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2014-03-22T23:59:39" Importance="Medium" Text="circuit_UML's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'circuit_UML::Connection' -  (Class), 'circuit_UML::Circuit' -  (Class), 'circuit_UML::Gate' -  (Class), 'circuit_UML::Not' -  (Class), 'circuit_UML::Source' -  (Class), 'circuit_UML::Sink' -  (Class), 'circuit_UML::And' -  (Class), 'circuit_UML::Or' -  (Class) " />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Connection' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Circuit' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Gate' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Not' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Source' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::Sink' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:41" Importance="Diagnostic" Text="'circuit_UML::And' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'circuit_UML::Or' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="The selection included 10 elements which were not bound to a template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'circuit_UML::' -  (Association): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'6b4b06ab-3a02-40a7-964f-7cd1d9065305' -  (Comment): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'09be20db-d1c3-4736-a78b-990032903d8a' -  (Comment): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'circuit_UML::' -  (Association): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'circuit_UML::' -  (Association): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'1200797f-1463-442d-ba81-27c9b6765085' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'7ae33a5c-4718-4b8b-bb6a-51c9ec21159c' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'f389d005-129b-4673-bfeb-9cb4f5f8e50a' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'539bac43-dcbe-42e0-9f71-87f1d0330dae' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="Diagnostic" Text="'5e8e9167-04a1-4476-ab02-740242eb2ef8' -  (Generalization): no bound template." />
+  <Message Timestamp="2014-03-22T23:59:42" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>

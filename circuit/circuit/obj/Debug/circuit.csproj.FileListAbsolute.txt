@@ -1,0 +1,132 @@
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Rai\Dropbox\PCS5\Process\circuit\circuit\circuit\bin\Debug\circuit.exe.config
+D:\Dropbox\PCS5\Process\circuit\circuit\circuit\bin\Debug\circuit.exe.config
+D:\PNR\FONTYS\PCS\PCS5\Project\Class diagram version2\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Class Diagram\Class diagram version2\Class diagram version2\circuit\circuit\bin\Debug\circuit.exe.config
+D:\Dropbox\PCS5\Class Diagram\Class diagram version2\Class diagram version2\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\alajmilions\Dropbox\PCS5\Class Diagram\Class diagram version2\Class diagram version2\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\alajmilions\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Desktop\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\alajmilions\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\alajmilions\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\alajmilions\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Rai\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Rai\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Rai\Dropbox\PCS5\Process\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\CircuitAfterAddgates\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\alajmilions\Dropbox\PCS5\Process\Current version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Desktop\circuit\Current version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Desktop\Current version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\bin\Debug\circuit.exe.config
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.exe
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.pdb
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.Form1.resources
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\bin\Debug\circuit.exe
+D:\PNR\FONTYS\PCS\PCS5\Process\Current version\last version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Desktop\last version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\last version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\last version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\last version\last version\circuit\circuit\obj\Debug\circuit.pdb
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe.config
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.exe
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.pdb
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.pdb
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Form1.resources
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+D:\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe.config
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.exe
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.pdb
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Rai\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.exe
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\bin\Debug\circuit.pdb
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csprojResolveAssemblyReference.cache
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Form1.resources
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.Properties.Resources.resources
+C:\Users\Obaid92\Dropbox\PCS5\Process\Current version\pablo\afterupdate\last version\circuit\circuit\obj\Debug\circuit.csproj.GenerateResource.Cache
